@@ -1,22 +1,500 @@
 [
-  {
-    "text": "Álftin er stærsti varpfugl landsins. Hún er eini innlendi svanurinn og auðþekkjanleg frá öðrum íslenskum fuglum á stærð, lit og löngum hálsi. Fullorðin álft er alhvít en tekur oft á sig ryðrauðan lit úr mýrarauða á höfuð og háls og nær sá litur stundum niður á bringu og kvið. Ungfugl og fugl á fyrsta vetri eru gráleitir en lýsast þegar líður á vetur og eru að mestu orðnir hvítir að vori. Kynin eru eins í útliti, en karlfuglinn ívið stærri. \r\n\r\nFlugið er kröftugt með sterklegum, hægum vængjatökum. Álftin teygir hálsinn beint fram á flugi en heldur honum lóðréttum á sundi. Hún hleypur á vatni þegar hún hefur sig til flugs. Félagslynd, venjulega í hópum nema á varptíma en þá verja hjónin óðal. Álftir fella flugfjaðrir síðsumars, eru þá ófleygar um tíma og er þá sagt að þær séu „í sárum“. ",
-    "name": "Álft"
-  },
-  {
-    "text": "Álkan er miðlungsstór svartfugl. Hún líkist langvíu og stuttnefju en er hálsstyttri og með hærri gogg. Í \t\tsumarbúningi er álka svört á höfði, hálsi og baki en hvít á bringu og kviði. Á veturna eru framháls, kverk og hlustarþökur hvít. Ungfuglar eru með smágerðari gogg. Kynin eru eins. \r\n\r\nÁlka flýgur hratt og beint með teygðan háls, lágt yfir haffleti. Er létt á sundi og sperrir þá oft stél og jafnvel gogg. Góður kafari eins og aðrir svartfuglar og notar vængina jafnt sem fæturna við köfun. Álka á erfitt um gang, situr á ristinni og heldur jafnvægi með stélinu. Er félagslynd. ",
-    "name": "Álft"
-  },
-  {
-    "text": "Auðnutittlingur er lítil, rákótt, grábrún finka með stutt stél. Rauður blettur á enni og svartur á kverk eru einkennandi. Hann hefur dökkar rákir á síðum, dauf vængbelti og grunnsýlt stél. Síðla vetrar og á vorin verður karlfuglinn bleikur eða rauðleitur á bringu og gumpi. Ungfuglar eru í fyrstu brúnflikróttir, án rauða blettsins á enni, en fá fullan búning í ágúst. \r\n\r\nAuðnutittlingur flýgur í léttum bylgjum. Hann er kvikur og fimur þegar hann leitar sér ætis í trjám og öðrum gróðri. Er oftast í litlum hópum utan varptíma en þeir geta þó orðið allstórir. ",
-    "name": "Álft"
-  },
-  {
-    "text": "Bjargdúfa er gráblá, með gljáandi grænar og purpuralitar hálshliðar. Hún er með hvítan yfirgump, dökka rák á jaðri stéls og tvær svartar vængrákir. Ungfugl er brúnni, án gljáa á hálshliðum. Dökkar bjargdúfur eru líka til. Húsdúfan er afkomandi bjargdúfunnar. Hún er til í mörgum litum, t.d. hvít, alsvört og brún, og til eru ýmis ræktuð afbrigði. Dökkar bjargdúfur eru líka til. Dúfur svífa oft með vængina uppsveigða. Gefa frá sér malandi kurr.",
-    "name": "Álft"
-  },
-  {
-    "text": "Bjartmáfur er vetrargestur sem líkist mjög hvítmáfi en er minni, fíngerðari, með hnöttóttara höfuð og brattara enni, frábrugðið flötu höfði hvítmáfs. Búningar og búningaskipti fullorðins bjartmáfs og ungfugls eru svipuð og hjá hvítmáfi. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nÁ sumrin hefur fuglinn rauðlitan augnhring. Vængir bjartmáfs eru lengri og mjórri en hvítmáfs og ná lengra aftur fyrir stélið, hann virðist léttari og fimari á flugi. Er mun léttari á sundi en hvítmáfur, minnir á fýl, afturhlutinn vísar á ská upp á við en á hvítmáfi virðist hann láréttur. Gefur frá sér svipuð hljóð og hvítmáfur, er skrækari en silfurmáfur. ",
-    "name": "Álft"
-  }
+    {
+        "Data":  {
+                     "text":  "Álftin er stærsti varpfugl landsins. Hún er eini innlendi svanurinn og auðþekkjanleg frá öðrum íslenskum fuglum á stærð, lit og löngum hálsi. Fullorðin álft er alhvít en tekur oft á sig ryðrauðan lit úr mýrarauða á höfuð og háls og nær sá litur stundum niður á bringu og kvið. Ungfugl og fugl á fyrsta vetri eru gráleitir en lýsast þegar líður á vetur og eru að mestu orðnir hvítir að vori. Kynin eru eins í útliti, en karlfuglinn ívið stærri. \r\n\r\nFlugið er kröftugt með sterklegum, hægum vængjatökum. Álftin teygir hálsinn beint fram á flugi en heldur honum lóðréttum á sundi. Hún hleypur á vatni þegar hún hefur sig til flugs. Félagslynd, venjulega í hópum nema á varptíma en þá verja hjónin óðal. Álftir fella flugfjaðrir síðsumars, eru þá ófleygar um tíma og er þá sagt að þær séu „í sárum“. ",
+                     "name":  "Álft"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Álkan er miðlungsstór svartfugl. Hún líkist langvíu og stuttnefju en er hálsstyttri og með hærri gogg. Í sumarbúningi er álka svört á höfði, hálsi og baki en hvít á bringu og kviði. Á veturna eru framháls, kverk og hlustarþökur hvít. Ungfuglar eru með smágerðari gogg. Kynin eru eins. \r\n\r\nÁlka flýgur hratt og beint með teygðan háls, lágt yfir haffleti. Er létt á sundi og sperrir þá oft stél og jafnvel gogg. Góður kafari eins og aðrir svartfuglar og notar vængina jafnt sem fæturna við köfun. Álka á erfitt um gang, situr á ristinni og heldur jafnvægi með stélinu. Er félagslynd. ",
+                     "name":  "Álka"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Auðnutittlingur er lítil, rákótt, grábrún finka með stutt stél. Rauður blettur á enni og svartur á kverk eru einkennandi. Hann hefur dökkar rákir á síðum, dauf vængbelti og grunnsýlt stél. Síðla vetrar og á vorin verður karlfuglinn bleikur eða rauðleitur á bringu og gumpi. Ungfuglar eru í fyrstu brúnflikróttir, án rauða blettsins á enni, en fá fullan búning í ágúst. \r\n\r\nAuðnutittlingur flýgur í léttum bylgjum. Hann er kvikur og fimur þegar hann leitar sér ætis í trjám og öðrum gróðri. Er oftast í litlum hópum utan varptíma en þeir geta þó orðið allstórir. ",
+                     "name":  "Auðnutittlingur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Bjargdúfa er gráblá, með gljáandi grænar og purpuralitar hálshliðar. Hún er með hvítan yfirgump, dökka rák á jaðri stéls og tvær svartar vængrákir. Ungfugl er brúnni, án gljáa á hálshliðum. Dökkar bjargdúfur eru líka til. Húsdúfan er afkomandi bjargdúfunnar. Hún er til í mörgum litum, t.d. hvít, alsvört og brún, og til eru ýmis ræktuð afbrigði. Dökkar bjargdúfur eru líka til. \u2028\u2028\r\n\r\nDúfur svífa oft með vængina uppsveigða. Gefa frá sér malandi kurr.",
+                     "name":  "Bjargdúfa"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Bjartmáfur er vetrargestur sem líkist mjög hvítmáfi en er minni, fíngerðari, með hnöttóttara höfuð og brattara enni, frábrugðið flötu höfði hvítmáfs. Búningar og búningaskipti fullorðins bjartmáfs og ungfugls eru svipuð og hjá hvítmáfi. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nÁ sumrin hefur fuglinn rauðlitan augnhring. Vængir bjartmáfs eru lengri og mjórri en hvítmáfs og ná lengra aftur fyrir stélið, hann virðist léttari og fimari á flugi. Er mun léttari á sundi en hvítmáfur, minnir á fýl, afturhlutinn vísar á ská upp á við en á hvítmáfi virðist hann láréttur. Gefur frá sér svipuð hljóð og hvítmáfur, er skrækari en silfurmáfur. ",
+                     "name":  "Bjartmáfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Blesgæs, sem er dekkst gráu gæsanna, er umferðarfugl hér. Hún er grábrún, með ljósum rákum að ofan og dökkum rákum á síðum. Dökkir framvængir eru einkennandi á flugi. Fullorðin blesgæs er meira eða minna með svartar þverrákir og díla á kviði og er hann stundum næstum alsvartur. Hvít blesa er ofan goggrótar. Ungfugl er án dökku rákanna á kviði og blesunnar.\r\n\r\nBlesgæs hegðar sér svipað og aðrar gráar gæsir en er sneggri í uppflugi, sýnist grennri og er liprari á flugi, hópamyndun er losaralegri. Er lipur sundfugl eins og aðrar gæsir og ávallt félagslynd. Röddin er hærra stemmd, meira syngjandi og þvaðrandi en hjá öðrum gæsum og lætur blesgæsin meira í sér heyra á flugi. ",
+                     "name":  "Blesgæs"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Brandönd er stór og skrautleg önd sem minnir talsvert á gæs. Í fjarska virðist brandönd vera hvít með dökkt höfuð. Hún er með svart höfuð og háls með grænni slikju, brúnt belti sem nær upp á bakið. Dökk rák nær frá bringu eftir endilöngum kviði aftur á undirgump. Undirgumpur er gulur og stélið dökkt í endann. Axlafjaðrir eru svartar og hand- og armflugfjaðrir svartleitar með grænum spegli. Að öðru leyti er vængurinn hvítur. Fullorðnir fuglar í felubúningi eru ljósari og litdaufari og minna á ungfugla. Ungfuglar eru mógráir að ofan, hvítleitir á vöngum og framhálsi og án brúna bringubeltisins. Kynin eru mjög lík en karlfuglinn er þó litsterkari, auk þess að vera með dökkrauðan hnúð við goggrót. \r\n\r\nBrandendur eru léttar á sundi, léttar til gangs og hefja sig snöggt til flugs. Minna mjög á gæsir, auk þess sem kynin sjá saman um uppeldi unga eins og hjá þeim. Liturinn greinir þær þó alltaf frá gæsum. ",
+                     "name":  "Brandönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Brandugla er eina uglan sem er útbreiddur varpfugl hér á landi. Hún er móbrún að ofan með ljósum dílum, þéttar langrákir eru á bringu og dreifðari rákir á kviði. Hún er með kringlótt, ljóst andlit, dökkar augnumgjarðir og lítil fjaðraeyru sem hún reisir stundum. Vængir eru langir, ljósari að neðan, með dökku mynstri á og við vængbrodda. Stélið er þverrákótt. Hún virðist ljós á flugi. \r\n\r\nFlug branduglu er nokkuð rykkjótt og vængjatökin silaleg en þó er hún fimur flugfugl og getur verið snögg. Hún svífur oft með vængina lítið eitt fram- og uppsveigða. Hún er einfari sem sést helst í ljósaskiptunum. Er venjulega þögul en á varpstöðvum heyrist stundum hátt væl eða endurtekið, djúpt stef.",
+                     "name":  "Brandugla"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Dílaskarfur er stór, dökkur og hálslangur sjófugl. Fullorðnir fuglar eru svartir, í varpbúningi (síðla vetrar og á vorin) er hann með hvíta kverk og vanga, oft hvíta fjaðrajaðra annars staðar á hausnum og ýfðar hnakkafjaðrir, minna á pönkara. Stór hvítur díll er á hvoru læri og bera þeir nafn sitt af honum. Ungfugl á fyrsta ári er brúnn að ofan og ljós að neðan, frá höfði og niður á kvið, dökknar síðan smátt og smátt og fær fullorðinsbúning á þriðja ári. Kynin eru eins. \r\n\r\nDílaskarfur flýgur nokkuð hratt og er háfleygari en toppskarfur. Torvelt er að greina skarfana að á færi, en dílaskarfurinn er miklu stærri, með þykkari gogg og flatara enni . Dílaskarfur teygir hálsinn fram á flugi og veit höfuðið lítið eitt upp á við. Þegar hann syndir eða situr veit goggurinn upp. \r\n\r\nSitur oft með þanda vængi eftir ætisleit og blakar þeim í sífellu til að þurrka þá, „messar“. Er styggur og var um sig á varpstöðvum. Félagslyndur. ",
+                     "name":  "Dílaskarfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Duggöndin er meðalstór kafönd og svipar til skúfandar. Í fjarska virðist steggurinn dökkur að framan og aftan en ljós þess á milli. Höfuðið er svart og grængljáandi, bringan svört, síður og kviður hvít. Bak er gráyrjótt, vængbelti hvít, gumpur og undirstélþökur svört, stél grábrúnt. Í felubúningi er steggurinn grár á síðum og móskulegur. Kollan er dökkbrún á höfði, hálsi, bringu, baki og axlarfjöðrum, oft með gráum yrjum. Afturendinn er dökkgrár, síður gulbrúnflikróttar, kviður hvítur. Hún er með hvíta blesu við goggrót, á varptíma er einnig ljós blettur á höfuðhliðum. Bæði kyn eru með hvít vængbelti og ljósa undirvængi.\r\n\r\nDuggönd hegðar sér líkt og skúfönd, verður best greind frá henni á stærð og hnöttóttara höfði, karlfugl á ljósu baki, kvenfugl á ljósari lit og stærri og ljósari flekkjum á höfði. Er ávallt félagslynd.",
+                     "name":  "Duggönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Fálki eða valur er stór og tígulegur ránfugl, með langa, breiða, odddregna vængi og langt stél, stærsti fugl fálkaættarinnar. Hann er breytilegur að lit, fullorðinn fálki er venjulega grár eða grábrúnn að ofan með hvítum doppum og rákum, ljósari að neðan, oftast hvítur eða ljósgulleitur með dökkum rákum og dílum. Höfuðið er meira eða minna rákótt, stundum með greinilegum skeggrákum. Stélið er þverrákótt. Karlfuglinn er venjulega ljósari, en kvenfuglinn stærri. Ungfugl er dekkri, stundum aldökkur með hreisturmynstri að ofan og rákóttur að neðan. Fullorðnir hvítfálkar eru alhvítir með dökka vængbrodda og rákir að ofan. Þeir eru árvissir gestir frá Grænlandi. Íslenskir fuglar geta þó verið mjög ljósir, þeir ljósustu eru nær hvítir á höfði og að neðan. \r\n\r\nFálkinn flýgur með hröðum, kraftmiklum vængjatökum, grípur oft til renniflugs, er hraðfleygur og mjög fimur á flugi. Fálkinn gefur frá sér hvellt væl á varpstöðvum en gargar reiðilega þegar hann er í árásarhug, er þó oftast þögull.",
+                     "name":  "Fálki"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Flórgoði er eini goðinn sem verpur á Íslandi. Minnir á smávaxna önd en er þó líkari brúsum í háttum og útliti; auðþekktur á þríhyrndu höfði, mjóum hálsi sem hann teygir oft, og stuttu stéli. Í sumarbúningi virðist hann dökkur í fjarlægð, höfuðið er stórt og svartgljáandi með stórum gulum fjaðrabrúskum aftur frá augum sem minnka þegar líður á sumarið. Háls og síður eru rauðbrún, bak og afturháls svartleit og kviðurinn hvítur. Yfirvængir eru dökkir með hvítum speglum. Á veturna er hann dökkur að ofan en ljós að neðan, með svarta þríhyrnda kollhettu, dökkt bak og dökkkámugan afturháls og síður. Ungfugl er svipaður fullorðnum fugli í vetrarbúningi og kynin eru lík. \r\n\r\nFlórgoði á erfitt með að hefja sig til flugs og flýgur sjaldan en þegar hann er kominn á loft á hann auðvelt með flug, fæturnir skaga aftur fyrir stélið og höfðinu er haldið lágt. Hann er mikill sundfugl og góður kafari en þungur til gangs. Sefdans flórgoðans í tilhugalífinu er mikið sjónarspil. Hann ber ungana gjarnan á bakinu og fæðir þá fyrstu vikurnar. Félagslyndur, en helgar sér óðal í vörpunum. ",
+                     "name":  "Flórgoði"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Fýll er stór gráleitur sjófugl sem minnir á máf, þéttvaxinn og hálsdigur með langa og mjóa vængi. Ungfugl er eins og fullorðinn og kynin eru eins. \r\n\r\nFýll er auðgreindur frá máfum á einkennandi fluglagi, tekur fáein vængjatök og lætur sig svo svífa á stífum vængjunum. Hann er léttur á sundi en á oft erfitt með að hefja sig á loft, sérstaklega í logni. Fýll er þungur til gangs. Leitar sér ætis bæði á flugi og syndandi, gjarnan kringum fiskiskip, í höfnum og við fiskvinnslustöðvar. ",
+                     "name":  "Fýll"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Gargönd er sjaldgæf önd. Hún er ívið minni og grennri en stokkönd en annars eru kollur þeirra mjög líkar. Steggur líkist kollu meira en hjá öðrum buslöndum. Hann er grár, brúnni á höfði og hálsi, með svartyrjótta bringu, brúnar axlafjaðrir, svartan afturenda og grátt stél. Kviður er ljós. Í felubúningi verður steggur vart greindur frá kollu. Kollan minnir á stokkandarkollu, en er grárri, minni og grennri, með hnöttóttara höfuð, og gogg og vængspegla í öðrum litum. Bæði kyn hafa hvíta spegla með svörtum jöðrum og ryðrauða bletti á vængþökum. \r\n\r\nAtferli er svipað og hjá stokkönd. Gargöndin er hraðfleyg og einnig góður sundfugl, fremur felugjörn og lætur lítið á sér bera. Er í pörum eða smáhópum, venjulega innan um aðrar buslendur. ",
+                     "name":  "Gargönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Glókollur er minnsti fugl Evrópu og þá jafnframt minnsti fugl Íslands. Hann er áberandi hnöttóttur, hálsstuttur, ólífugrænn að ofan, grænleitur á síðum, með gula kollrák og svartar rendur hvora sínu megin við hana, án brúnarákar. Tvö ljós vængbelti og gulir fjaðrajaðrar á svartleitum vængfjöðrum eru einkennandi. Hluti kollrákar karlfugls er appelsínugul. Ungfuglar eru án kollrákanna en vængmynstur er áberandi. Vængir stuttir og breiðir.\r\n\r\nKvikur og sístarfandi, leitar ætis í trjám, stundum á flugi eða hangandi á hvolfi. Kallið er hátt tíst, á hárri tíðni sem fer gjarnan framhjá fólki sem komið er á miðjan aldur eða eldra. Söngurinn er hávært, endurtekið tveggja atkvæða hljóð sem endar með dilli. ",
+                     "name":  "Glókollur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Grafönd er grannvaxin og hálslöng votlendisönd og oftast auðgreind á löguninni. Í fjarlægð virðist steggur grár með hvíta bringu og dökkt höfuð. Höfuðið er kaffibrúnt, sem og kverk og afturháls. Framháls, bringa og kviður eru hvít og hvítar rákir á hálshliðum teygja sig upp til höfuðsins. Hann er gráyrjóttur á búkinn. Undirgumpur er svartur og stél hvítt og svart með löngum svörtum miðfjöðrum, axlafjaðrir langar og svartar með hvítum jöðrum. Vængspegill er grængljáandi með brúnan framjaðar og hvítan afturjaðar. Í felubúningi er steggur svipaður kollu en grárri að ofan. Kollan er svipuð öðrum buslandakollum en ljósari og grárri, grennri, með lengri háls og oddhvasst stél. Kviður er hvítur og vængspeglar eins og á steggi, en brúnni og dauflitari. \r\n\r\nFlug grafandar er kraftmikið með tíðum vængjatökum, vængir grannir og oddhvassir. Hún flýtur vel á vatni og á auðvelt með gang. Sést venjulega í pörum eða litlum hópum, oft með öðrum buslöndum. Er fremur stygg, hegðar sér líkar rauðhöfða- en stokkönd. Kollurnar gefa frá sér djúpt garg en yfirleitt er fuglinn þögull. ",
+                     "name":  "Grafönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Grágæs er stærst þeirra gæsa sem verpa eða hafa viðdvöl á Íslandi. Hún er öll grábrún, dökk að ofan og á hálsi, ljós að neðan nema síðurnar eru dökkar, stundum með dökka flekki á bringu og kviði. Er eins og aðrar gráar gæsir með hvítan undirgumpur , undirstél-- og yfirstélþökur. Ljósgráir framvængir og gumpur áberandi á flugi. Fullorðinn fugl og ungfugl eru svipaðir, ungfugl er með dökka nögl á goggi, en fullorðin með ljósa. Kynin eru eins að lit, en gassinn er sjónarmun stærri. \r\n\r\nGrágæsir halda sig oftast í hópum utan varptíma, fara þá um í oddaflugi og skiptast á um að hafa forystu. Flugið er beint og kraftmikið. Þær eru mest á ferli í dögun og rökkurbyrjun. Pörin halda saman árið um kring og annast uppeldi unga í sameiningu, kvenfuglinn ungar út meðan karlfuglinn stendur á verði. ",
+                     "name":  "Grágæs"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Gráspörinn er lítill og þybbinn, eilítið stærri en auðnutittlingur. Karlinn er rauðbrúnn að ofan og á hnakka, dökkrákóttur á baki og yfirvængjum, grár á kolli og svartur á framhálsi. Kerlan er grábrún að ofan en ljósgrá að neðan, bak og vængir eins og á karli. Ungfugl er svipaður. Bæði kyn eru með hvít vængbelti. \r\n\r\nGráspör er kvikur fugl og sítístandi, flugið er bylgjótt. Hann lifir í nánu sambýli við manninn, er félagslyndur árið um kring. Gráspör er sískvaldrandi og er hljóðið oftast hávært tíst. ",
+                     "name":  "Gráspör"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Gráþrösturinn er líkur skógarþresti en töluvert stærri og stéllengri. Hann er grár á höfði og gumpi, rauðbrúnn á baki og vængjum og gulleitur með dökkum dröfnum á bringu og síðum, ljós á kviði. Stélið er langt og svart. \r\n\r\nGráþröstur grípur til renniflugs með aðfelldum vængjum milli þess sem hann blakar þeim. Er var um sig og styggur. Fuglarnir sjást stakir eða í hópum, bæði stórum og litlum. Gefur frá sér hrjúft, hvellt og endurtekið ,,tsjakk“. Söngurinn er hröð runa fremur veikra, ískrandi hljóða. ",
+                     "name":  "Gráþröstur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Gulöndin, þessi stóra systir toppandarinnar, er stærsta íslenska ferskvatnsöndin. Fullorðinn steggur virðist í fjarska svartur að ofan en hvítur að neðan. Aðallitur er hvítur með rjómagulum eða laxableikum blæ. Höfuðið er dökkgrængljáandi með úfnar hnakkafjaðrir í stað topps. Bakið er svart og afturendi grár. Í felubúningi líkist hann kollu, en er dekkri að ofan og ljósari á síðum. Kollan er með gráan búk og rauðbrúnt höfuð. Einfaldur, stríður hnakkatoppur, hvít kverk og skörp skil á hálsi milli brúna og gráa litarins greina hana frá toppandarkollu, auk stærðarinnar. \r\n\r\nGulönd virðist fremur löng og flöt á flugi, enda heldur hún höfði, hálsi og bol lárétt. Háttum svipar til toppandar. Er oftast í litlum hópum. Er venjulega þögul nema í tilhugalífinu, gargar þá rámt. ",
+                     "name":  "Gulönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Örninn er stærsti og sjaldgæfasti ránfugl landsins, með yfir 2 m vænghaf, oft nefndur konungur fuglanna. Aðallitur er brúnn, fullorðinn örn er gulur eða ljósbrúnn á höfði, aftur á bak og niður á bringu, fjaðrajaðrar ljósir á baki og yfirvæng (hann er „hreistraður“). Fleyglaga stélið er hvítt. Ungfugl er allur dekkri, mógul- og rauðbrúnflikróttur að ofan, ljósari að neðan, sérstaklega á bringu. Hann lýsist síðan smátt og smátt með aldrinum, stél á undan höfði, verður fulltíða sex ára. Kvenfuglinn, assan, er töluvert stærri en karlfuglinn. \r\n\r\nHaförn er auðgreindur á stærð og lögun og ferhyrndum vængjunum með ystu handflugfjaðrir vel aðskildar (fingraðar). Svífur gjarnan en er þunglamalegur í flugtaki. Oft má sjá úr mikilli fjarlægð hvar örninn svífur á þöndum vængjum yfir landi eða hafi og leitar sér að bráð, eða hvar hann situr langtímum saman kyrr á sama útsýnisstaðnum. Venjulega er hann styggur og friðsamur en getur verið ágengur við hreiður. Ernir eru oftast stakir, í pörum eða smáhópum.",
+                     "name":  "Haförn"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Haftyrðill er líkur álku en miklu minni, smæstur svartfugla og einn af minnstu sjófuglunum. Hann er þybbinn, hálsstuttur og mjög kubbslegur, á stærð við stara. Vængirnir eru stuttir. Á sumrin er hann svartur að ofan, niður á bringu, og hvítur að neðan. Hvítar rákir eru um axlir. Á veturna verður hann hvítur á bringu, kverk og upp á vanga. Kynin eru eins. \r\n\r\nHaftyrðillinn flýgur með hröðum vængjatökum eins og lundi og er ekki ósvipaður honum á flugi. Þó eru vængir hans styttri og undirvængir dökkir. Fuglinn virðist hálslaus á sundi og flugi. Hann er venjulega fremur djúpsyndur, með stélið lítið eitt uppsveigt og kafar ótt og títt en flýtur hátt í hvíld. Kvikari í hreyfingum en aðrir svartfuglar. Haftyrðill er hávær á varptíma en annars þögull. ",
+                     "name":  "Haftyrðill"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hávella er einn af einkennisfuglum hálendisvatna og tjarna. Fremur lítil kafönd, eina öndin sem hefur ljósan búk á veturna og aldökka vængi. Skiptir oftar um fjaðurham en aðrar endur. Steggur er með áberandi langar miðfjaðrir stéls, nema í felli síðsumars. Á sumrin er hann dökkbrúnn um höfuð, háls, bringu og bak, með hvíta bletti á höfuðhliðum og hvítur á síðum. Hann er mun ljósari á veturna, er þá ljós um höfuð, bak og ofanverða bringu með dökka vangabletti. Kolla er á veturna með dökkt og ljóst höfuðmynstur, breiðan dökkan hálshring en annars grábrún að ofan og hvít að neðan. Á sumrin er hún dekkri á höfði og bringu og dökkbrún að ofan. Bæði kyn eru með aldökka vængi án spegla. \r\n\r\nHávella er hraðfleyg og vængjatökin sérkennileg, hún flýgur lágt í óreglulegum hópum, vaggandi til hliðanna, og sýnir til skiptis dökkan og ljósan lit. Hún er afar fimur sundfugl og kafari og lætur brimrót ekki hindra sig. Á pörunartímanum lyftir karlfuglinn löngu stélfjöðrunum upp úr vatninu og syndir gólandi í hringi kringum kvenfuglinn. Félagslynd og fremur spök en óróleg og sífellt að fljúga upp eða kafa. ",
+                     "name":  "Hávella"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Heiðagæsin er einn af einkennisfuglum miðhálendisins, nokkru minni en grágæs og hálsinn hlutfallslega styttri. Höfuð og háls eru kaffibrún og skera sig frá blágráum búknum. Ljósari, með fölbleikum blæ á neðanverðum hálsi og bringu, niður á kvið. Undirstél og undirgumpur eru hvít, síður dökkflikróttar. Framvængur er blágrár, dekkri en á grágæs. Fullorðinn fugl og ungfugl eru svipaðir, ungfugl þó dekkri. Gassinn er sjónarmun stærri en gæsin. \r\n\r\nHeiðagæs er félagslynd á öllum tímum árs. Hún flýgur með hröðum vængjatökum og í þéttum hópum, byltir sér meira og er léttari á flugi en grágæs. Lítið höfuð og stuttur háls eru einkennandi á flugi. ",
+                     "name":  "Heiðagæs"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Heiðlóa, sem jafnan er nefnd lóa, er einkennisfugl íslensks þurrlendis. Hún er meðalstór vaðfugl, töluvert minni en spói, allþéttvaxin og hálsstutt. Vængirnir eru fremur langir. Fullorðin lóa í sumarbúningi er svört að framan og neðan en gul- og dökkflikrótt að ofan. Á milli svarta og gulflikrótta litarins á bakinu er hvít rönd. Hún hverfur á haustin eins og svarti liturinn og lóan verður þá ljósleit að framan og á kviðnum. Ungfuglar eru svipaðir. Vængir eru hvítir að neðan. Kynin eru svipuð, karlfuglinn er litsterkari. \r\n\r\nLóan er hraðfleyg og hún fer einnig hratt yfir þegar hún hleypur um á jörðu niðri. Biðilsflug með hægum, djúpum vængjatökum og söng er einkennandi. Sé reynt að nálgast hreiður eða unga lóunnar þykist hún vera vængbrotin til að draga að sér athyglina og lokka óvininn burt. Hún er félagslynd utan varptíma. \r\n\r\nÞekktustu hljóð lóunnar eru söngurinn á varptímanum, „dírrin-dí“ eða „dýrðin-dýrðin“, sem hún syngur bæði sitjandi og á flugi. ",
+                     "name":  "Heiðlóa"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Helsinginn er önnur tveggja ,,svartra\" gæsa sem fara um landið, er á stærð við heiðagæs og blesgæs. Hann verður best greindur á áberandi skörpum skilum dökka litarins að ofan og hvíta litarins að neðan, svo og hvítu andliti, kverkum og vanga. Hann hefur svarta augnrák, er svartur á kolli, hnakka, hálsi og bringu, og bak og yfirvængir eru blágrá með hvítjöðruðum svörtum þverrákum. Vængir virðast gráir að ofan á flugi, dökkir að neðanverðu. Fuglinn er ljósgrár að neðan, með hvítar stélþökur og svart stél. Fullorðinn helsingi og ungfugl eru mjög líkir. Kynin eru eins, en gassinn er sjónarmun stærri en gæsin. \r\n\r\nHelsingi flýgur sjaldnar í oddaflugi en aðrar gæsir sem hér fara um en er oft í óskipulegum, þéttum hópum eða löngum röðum. Er stærri en margæs og með hægari vængjatök. ",
+                     "name":  "Helsingi"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hettumáfur er algengur votlendisfugl og minnsti máfurinn sem verpur hér á landi. Hann er oftast auðþekktur, ljósari, minni og léttari á flugi en rita og stormmáfur. Í sumarbúningi er fullorðinn fugl ljósgrár á baki og vængjum en annars hvítur að mestu. Dökkbrún hetta nær niður á háls, vængbroddar eru svartir. Er hettulaus í vetrarbúningi, frá ágúst og fram í mars, með svartar kámur á hlustarþökum. Nýfleygir ungar eru brúnflikróttir að ofan en lýsast á haustin. Fugl á fyrsta vetri er hvítur á höfði, hálsi og að neðan, vængir brún- og svartflikróttir að ofan, stéljaðar svartur. Fær fullan búning á öðru hausti. Kynin eru eins. \r\n\r\nHettumáfur er ekki eins mikill sjófugl og rita. Hann sést oft við fæðuleit í fjörum, á leirum og við skólpræsi. Stundum eltir hann sláttuvélar eða plóga og hremmir skordýr sem koma í ljós í slægjunni eða plógfarinu. Félagslyndur og fremur spakur. ",
+                     "name":  "Hettumáfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Himbrimi er stór, sterklegur og rennilegur vatnafugl, einn af einkennisfuglum íslenskra heiðavatna. Á sumrin er hann með gljásvart höfuð og háls, á hálsi er ljós kragi með svörtum langrákum og sama litamynstur á bringuhliðum. Hann er svartur að ofan, alsettur hvítum tíglum eða dílum sem eru mest áberandi á axlafjöðrum. Bringa og kviður eru hvít, vængir dökkir að ofan en hvítir að neðan. Á veturna er hann grábrúnn að ofan, með dekkri koll og afturháls, hvítur á vöngum, framhálsi og að neðan. Ungfugl er svipaður en ljósari fjaðrajaðrar mynda daufa tígla að ofan. Kynin eru eins. \r\n\r\nHimbriminn flýgur með kraftmiklum vængjatökum. Á flugi er hálsinn niðursveigður og fæturnir skaga aftur fyrir stélið. Hann er fimur sundfugl, mikill kafari og fremur djúpsyndur, þungur til flugs og lendir á maganum en ber ekki fæturna fyrir sig eins og flestir fuglar. Brúsar (himbrimi og lómur) geta ekki gengið og koma ekki á land nema til að verpa og skríða þá á maganum til og frá hreiðrinu. Eru venjulega stakir, í pörum eða litlum hópum. ",
+                     "name":  "Himbrimi"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hrafninn, þessi stóri hröfnungur er eini innlendi fulltrúi ættar sinnar á Íslandi. Allir þekkja krumma sem er bæði elskaður og hataður af þjóðinni. Hann er stærstur allra spörfugla, sterklega byggður, með fremur langa og breiða fingraða vængi og fleyglaga stél. Hann er alsvartur, fullorðinn hrafn er með græna eða fjólubláa gljáandi slikju á höfði og að ofan, úfnar fjaðrir á hálsi og fiðraðar skálmar. Ungfugl er móskulegur og án gljáa. \r\n\r\nFlug hrafnsins er þróttmikið, vængjatökin djúp og hann flýgur beint og oft hátt og lætur sig svífa á þöndum vængjum. Lætur sig oft falla með aðfellda vængi og leikur alls kyns fluglistir. Hoppar gjarnan jafnfætis. Hrafnar eru félagslyndir og halda sig í hópum eða pörum. ",
+                     "name":  "Hrafn"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hrafnsönd er meðalstór kafönd og er steggur auðþekktur á litnum. Hann er allur gljásvartur á fiður, nema flugfjaðrir eru gráar og eru handflugfjaðrirnar ljósastar. Ársgamall steggur er svartflikróttur á bringu, síðum og að ofan. Kollan er dökkmóbrún, með áberandi ljósari vanga og kverk, svartbrúnan koll, hnakka og afturháls og ljósari kvið. Vængir eru svipaðir og á steggi. Ungfuglar eru líkir kollu, en ljósari. \u2028 \r\n\r\nHrafnsönd er sterklega vaxin, fremur stygg, með fleyglaga stél og hnöttótt höfuð. Flugið er þróttmikið og flöktandi með hröðum vængjatökum sem mynda flautandi hljóð. Hún er létt á sundi og sperrir þá oft stélið og hálsinn. Fimur kafari en léleg til gangs. Félagslyndur fugl. ",
+                     "name":  "Hrafnsönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hrossagaukur (einnig kallaður mýrispýta eða mýrisnípa) er algengur meðalstór vaðfugl sem fer gjarnan huldu höfði. Hann er í brúnum og ryðrauðum felulitum, nema kviðurinn er hvítur. Mógular rákir á höfði og eftir endilöngu baki eru einkennandi, auk dökkra koll- og augnráka. Jaðrar stélfjaðranna eru hvítir. Kynin eru eins. \r\n\r\nFluglagið er rykkjótt og sérkennilegt. Á vorin flýgur hrossagaukur hringflug yfir óðali sínu og hneggjar án afláts. Erfitt er að koma auga á hann á jörðu niðri, því hann er var um sig og felugjarn. Þegar hann er fældur flýgur hann snögglega upp með skrækjum og hverfur á braut með hröðum vængjatökum eða steypir sér snöggt til jarðar. Fremur ófélagslyndur fugl. ",
+                     "name":  "Hrossagaukur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Húsöndin er einkennisfugl Mývatnssveitar, meðalstór önd með sérkennilegt höfuðlag. Í fjarlægð virðist steggur dökkur að ofan en ljós að neðan. Hann er með blágljáandi svart höfuð með úfinn hnakka og bratt enni, hvítur hálfmánalagaður blettur er milli goggs og augna. Hann hefur hvítan háls, bringu, kvið og síður, svart bak og afturenda og röð af hvítum doppum á axlafjöðrum. Vængir eru svartir með hvítum speglum og hvítum miðþökum. Í felubúningi líkist hann kollu, en er með dekkra höfuð og gogg. Ungfugl er brúnn, blettur við goggrót er ógreinilegur. Kollan er með súkkulaðibrúnt höfuð, hvítan hálshring, dökkgráan búk og hvíta bringu, höfuðlag og vængmynstur svipað og á steggi. Stærðarmunur kynja er meiri en hjá flestum öðrum öndum. \r\n\r\nHvinur heyrist frá vængjum húsanda á flugi. Karlfuglinn er ákaflega aðsópsmikill og fjörugur í biðilsleikjum sínum, sem hann iðkar mestallan fyrri helming ársins. Hann helgar sér svæði á vatni og á oft í erjum við kynbræður sína. Er lipur sundfugl og heldur sig oft í talsverðum straumi. Húsöndin er félagslynd utan varptíma. ",
+                     "name":  "Húsönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hvítmáfur er einkennismáfur margra strandsvæða, sérstaklega á veturna. Stór fugl, svipaður svartbaki á vöxt og stærð. Fullorðinn hvítmáfur er að mestu hvítur, ljósgrár á baki og ofan á vængjum með hvíta vængbrodda. Á veturna er hann brúnflikróttur á höfði. Ungfugl á fyrsta ári er allur jafnt ljósbrúnflikróttur, aðeins brúnni að ofan og án dökks jaðars á stéli. Hann lýsist smám saman, getur á öðru ári verið alhvítur og er að mestu kominn í fullan búning á þriðja ári. Það einkennir fullorðinn hvítmáf að hvergi sést dökkur litur í búningi hans, en fullorðinn silfurmáfur hefur hvítt og svart mynstur á vængendum. Þessar tvær tegundir hafa hins vegar kynblandast á síðari árum og eru ýmis millistig þekkt. Bjartmáfur er mjög líkur hvítmáfi. Hvímáfur er með kraftmeiri gogg, flatara enni og vængir ná ekki eins langt aftur fyrir stél á sitjandi fugli og hjá bjartmáfi, vængir eru einnig hlutfallslega breiðari. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nHvítmáfur er stór og þungur og svipar til annarra stórra máfa. Hann er mjög félagslyndur. Hann ristir dýpra á sundi en bjartmáfur. Er með kraftmeiri gogg, flatara enni og vængir ná ekki eins langt aftur fyrir stél á sitjandi fugli og hjá bjartmáfi, vængir eru einnig hlutfallslega breiðari. ",
+                     "name":  "Hvítmáfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Jaðrakan er einn af einkennisfuglum votlendis á láglendi. Hann er háfættur, hálslangur og spengilegur, álíka stór og spói. Á sumrin er hann rauðbrúnn um höfuð, háls og niður á bringu en annars með brúnleitu mynstri, kvenfugl er litdaufari og stærri en karlfugl. Í vetrarbúningi er hann jafnlitur, grábrúnn að ofan og ljós að neðan. Ungfugl er rauðgulbrúnn á höfði, hálsi og bringu og minnir á fullorðna fugla í sumarfiðri. Á flugi sjást áberandi hvít vængbelti, hvítur gumpur og stél með svörtum afturjaðri. Fluglag er ákveðið, með hröðum vængjatökum. Fuglinn er hávær og órólegur á varpstöðvum. Hann er félagslyndur utan varptíma. Gefur frá sér hrjúft kvak og hvellt nefhljóð á varptíma, annars þögull. Sumum finnst hann segja: „vaddúddí – vaddúddí“ og „vita-vita-vita.“ ",
+                     "name":  "Jaðrakan"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Kjóinn er mun minni en ættingi hans, skúmurinn. Langar oddhvassar miðfjaðrir sem skaga 5–10 cm aftur úr stélinu eru einkennandi. Tvö litarafbrigði eru af kjóa, dökkt og ljóst. Dökkur kjói er að mestu móbrúnn, með svartleita kollhettu, vængi og stél. Ystu handflugfjaðrir eru með hvítum stöfum sem mynda hvítar skellur utarlega á væng og eru meira áberandi á undirvæng. Ljós eða skjóttur kjói er ljós á vöngum, hnakka, bringu og kviði, dökk kollhetta áberandi, oft með dökku bringubelti. Vængir og stél eru eins og á dökkum fugli. Dökkir kjóar eru algengari, en ljósir kjóar hlutfallslega algengari norðanlands en sunnan. Ungfuglar eru mismunandi, venjulega brúnflikróttir, með stuttar miðfjaðrir stéls. Kynin eru eins. \r\n\r\nVængir kjóans eru langir og hann er rennilegur og flugfimur fugl sem eltir oft uppi aðra fugla og neyðir þá til að sleppa æti sínu. ",
+                     "name":  "Kjói"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Krían er eini fulltrúi þernuættar hér á landi. Hún er spengilegur og tígulegur fugl, nokkru minni en hettumáfur og mun mjóslegnari og rennilegri. Á sumrin er kría með svarta hettu frá goggrótum og aftur á hnakka. Að öðru leyti er hún blágrá, nema hvít rák er undir kollhettunni og hún er hvít á stéli með svartyddar handflugfjaðrir. Stélið er djúpklofið og vængir langir og hvassyddir. Ungfugl (nýfleygur ungi) er með hvítt enni og bringu, brún- og gráflikrótt bak og yfirvængi, lítið eitt klofið eða sýlt stél. Ársgamlir fuglar (og í vetrarbúningi) eru hvítir á enni, bringu og kviði, frambrún vængja er dökk og jaðarfjaðrir stélsins styttri. Kynin eru eins. \r\n\r\nKrían er afbragðs flugfugl, hún andæfir yfir vatni og steypir sér síðan eldsnöggt niður eftir síli. Hún er þekkt fyrir öflugan lofthernað í varplandi sínu og ver ekki aðeins eigin afkvæmi fyrir ræningjum, heldur njóta aðrir fuglar einnig góðs af að verpa í nágrenni hennar. Mjög félagslynd og á sífelldu iði og amstri. ",
+                     "name":  "Kría"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Krossnefur er sérkennileg, stór finka með stóran gogg, skoltarnir ganga á misvíxl og ber fuglinn nafn sitt af því. Goggurinn er sérhæfður til að ná fræjum úr könglum. Karlfugl er oftast hárauður með dekkri vængi, en getur einnig verið appelsínugulur eða jafnvel grænn. Kvenfugl er grágrænn með gulgrænan gump og ungfugl er sterkrákóttur, brúnleitur eða mógrænn. \u2028 \r\n\r\nFélagslyndur utan varptíma. Hóparnir fljúga milli könglabúnta í trjátoppum og hafa hátt á flugi, en eru hljóðlátir þegar þeir eta. Flugið er bylgjótt. ",
+                     "name":  "Krossnefur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Langvía er algengur og fremur stór svartfugl sem líkist mjög stuttnefju. Á sumrin er langvían brúnsvört að ofan en hvít að neðan. Dökkar kámur og flikrur á síðum eru einkennandi. Hvítir jaðrar armflugfjaðra mynda ljósa rák á aðfelldum væng. Á litarafbrigðinu „hringvíu“ er hvítur hringur kringum augu og hvítur taumur aftur og niður úr honum. Á veturna teygist hvítur litur bringunnar upp eftir kverk, hálshliðum og vöngum, en svört rák gengur aftur frá augum. Kynin eru eins. \r\n\r\nLangvíu svipar í mörgu til álku og stuttnefju. Höfuðlag er þó annað, langvía er auk þess hálslengri og stélstyttri en álka. Hún flýgur með kýttan háls. Á erfitt um gang, situr á ristinni. Auðgreindust frá stuttnefju á kámugum síðum og því að engin hvít rák er á gogghliðum. Er afar félagslynd. ",
+                     "name":  "Langvía"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Lómurinn er straumlínulagaður og svipaður frænda sínum, himbrimanum, en þó mun minni. Hann er gráleitur, dökkur að ofan en ljós að neðan, með langa, mjóa vængi. Á sumrin er hann grár á höfði og hálshliðum, langröndóttur á afturhálsi og með dumbrauða skellu á framhálsi. Grábrúnn að ofan, bringa, kviður og undirvængir hvít og síðurnar rákóttar. Á veturna er hann hvítur á höfði og hálsi nema með gráan koll og afturháls, grár á baki með hvítum, smágerðum dílum og hvítur að neðan. Ungfugl er svipaður en brúnni og dekkri á baki, höfði og hálsi. \r\n\r\nLómi svipar að flestu leyti til himbrima og er ófær til gangs eins og hann, ávallt auðgreindur frá honum á uppsveigðum, grönnum gogginum. Á flugi ber hann herðarnar eins og himbrimi og fæturnir skaga aftur fyrir stélið. Lómar sjást stakir eða í litlum hópum. ",
+                     "name":  "Lómur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Lóuþræll er smávaxinn vaðfugl sem einkennir votlendi á sumrin, en fjörur síðsumars. Á sumrin er hann gulbrúnn og svartflikróttur að ofan en ljósari að neðan með stóran, svartan blett eða svuntu neðarlega á bringunni og aftur á kvið. Á flugi má sjá mjó hvít vængbelti. Gumpur er hvítur með dökkri rák í miðju og stél grátt, einnig með svartri miðrák. Á veturna missir hann svörtu svuntuna. Ungfugl er svuntulaus, með áberandi rákótta bringu. Kynin eru eins. Flýgur hratt, í hópum á flugi bregður til skiptis fyrir ljósum kviðnum og brúnu bakinu. Allir fuglarnir í hópnum snúa sér samtímis. Hann stendur fremur hokinn. Er félagslyndur utan varpstöðva, er þá oft í stórum hópum á leirum og söndum með öðrum vaðfuglum. Sést oft í fylgd með lóum á vorin og dregur af því nafn sitt, ásamt því að bera svipaðan fjaðurham og lóan. ",
+                     "name":  "Lóuþræll"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Lundi er einn af minni svartfuglunum og jafnframt sá algengasti. Hann er fremur höfuðstór og kubbslegur. Fullorðinn lundi í sumarbúningi er svartur að ofan og hvítur að neðan með svartan koll og svartan kraga um háls. Höfuðhliðar (vangar) eru gráar, undirvængir svartir og goggur í skærum litum. Á veturna eru vangar dekkri og goggur litdaufari og minni. Kynin eru eins. Ungfugl er svipaður en goggur mjórri og svæðið framan augna dekkra. \r\n\r\nLundinn flýgur beint með hröðum vængjatökum, venjulega lágt yfir haffleti. Hann stendur uppréttur og á auðvelt með gang. Samanreknari en hinir stærri svartfuglar, höfuðlag er annað og engar vængrákir. Afar félagslyndur. Yfirleitt þögull en á varpstöðvunum heyrist kurrandi hljóð, bæði úr holum og frá sitjandi fuglum. ",
+                     "name":  "Lundi"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Margæs er lítil „svört“ gæs, mun minni en helsingi og minnsta gæsin sem sést á Íslandi. Hefur sótsvart höfuð, háls og bringu, hvítar rákir á hálshliðum og dökkt brúngrátt bak og vængi. Kviður og síður eru ljósgrá, aftanverðar síður rákóttar. Ungfugl er án ráka á hálshliðum og gráleitur á síðum. \r\n\r\nMargæs flýgur hratt með örum vængjatökum, oftast í óskipulögðum hópum en einnig í oddaflugi. Stuttur háls og smæð eru einkennandi fyrir margæsina sem er lítið eitt stærri en stokkönd. Hún er létt á sundi og hálfkafar gjarnan. Margæsir hafa vetursetu á Írlandi og eru fargestir á Íslandi vor og haust. ",
+                     "name":  "Margæs"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Maríuerla er lítill og kvikur spörfugl með langt stél sem hann veifar í sífellu. Fullorðin maríuerla er grá á baki og gumpi; kollur, kverk og bringa eru svört, enni og vangar hvít. Bringan er hvít, sem og ytri stélfjaðrir, vængir og miðhluti stéls dökk. Karlfugl er dekkri en kvenfugl. Ungfugl er móbrúnn á höfði með svartan díl á bringu. \r\n\r\nFlug maríuerlunnar er bylgjótt. Sitjandi sveiflar hún löngu stélinu upp og niður í sífellu og kinkar kolli. Hún veiðir flugur á jörðu niðri eða á flugi, hleypur hratt. Maríuerlur eru venjulega stakar eða í litlum hópum. ",
+                     "name":  "Maríuerla"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Músarrindill er einn af einkennisfuglum birkiskóganna. Hann er auðþekktur á smæð, hnöttóttu vaxtarlagi, uppsperrtu stéli og þróttmiklum söng sem heyrist allt árið. Hann er rauðbrúnn að ofan en mógrár að neðan með dökkar rákir á vængjum, síðum og undirgumpi og hvíta díla á aðfelldum væng. Hann hefur ljósa brúnarák. \r\n\r\nMúsarrindillinn flýgur hratt og beint með höfuðið teygt fram og heyrist þytur þegar hann blakar vængjunum ótt og títt. Hann flýgur sjaldan og ekki langt í einu. Þegar hann situr sveiflar hann uppsperrtu stélinu stöðugt til og frá. Hann er síkvikur en felugjarn og leitar sér ætis í þéttum gróðri og grónum urðum. Er venjulega einfari eða fáir saman. Músarrindill var lengi talinn minnsti íslenski fuglinn, en þegar glókollurinn nam hér land rétt fyrir aldamótin steypti hann honum af stóli sem minnsti fugl landsins. ",
+                     "name":  "Músarrindill"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Óðinshaninn er smávaxinn og fínlegur fugl. Hann er gráleitur að ofan, fremur dökkur á sumrin en ljósari á vetrum og ljós að neðan. Í sumarbúningi hefur hann breiðan, rauðgulan kraga um hálsinn og hvítan blett í kverkinni. Hann er hvítur að neðan og með ljós vængbelti. Kvenfugl er skærlitari en karlfugl. Síðsumars og á veturna er fuglinn ljósblágrár að ofan en hvítur að neðan, með dökka augnrák. Ungfugl er svipaður en dekkri á kolli, hnakka og afturhálsi; á baki svipaður og fullorðinn fugl í sumarbúningi. \r\n\r\nÓðinshaninn flýgur hratt og flöktir mikið. Oftast sést hann á sundi. Hann liggur hátt í vatninu, skoppar á vatnsborðinu og hringsnýst um sjálfan sig, dýfir goggnum ótt og títt í vatnið og tínir upp skordýr. Í tilhugalífinu á kvenfuglinn frumkvæðið og það er karlfuglinn sem sér um álegu og ungauppeldi en kvenfuglinn lætur sig hverfa strax eftir varpið og getur stundum verið í tygjum við fleiri en einn karlfugl (fjölveri). Óðinshani er spakur fugl og félagslyndur utan varptíma. ",
+                     "name":  "Óðinshani"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Rauðbrystingur er hnellinn, meðalstór vaðfugl með stuttan gogg, háls og fætur. Á sumrin er hann rauðbrúnn á höfði, hálsi, bringu og kviði, dökkur að ofan með móleitum dröfnum og með dökkrákóttan koll. Á haustin og veturna er hann að mestu grár með ljósari fjaðrajaðra á baki og virðist hreistraður, ljós að neðan. Ungfugl er svipaður en dekkri að ofan, með meira áberandi „hreistur“ á baki og gulbrúnan blæ á bringu. Rauðbrystingur er alltaf með gráa vængi og hvít vængbelti, ljósgráan, fínrákóttan gump og grátt stél. \r\n\r\nRauðbrystingur minnir á lóuþræl en er mun stærri, hegðun svipuð en rauðbrystingur fer hægar yfir og flugið er sterklegra. Félagslyndur fugl og oft í stórum hópum (þúsundir fugla). ",
+                     "name":  "Rauðbrystingur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Rauðhöfðaönd er meðalstór önd, nokkru minni en stokkönd, með hnöttótt höfuð, stuttan háls, lítinn gogg, fleyglaga stél og langa, mjóa vængi. Steggurinn er með rauðbrúnt höfuð og rjómagula blesu frá goggrótum aftur á kollinn og grængljáandi rák aftan augna. Hann er rauðbleikur á bringu, gráyrjóttur að ofan og á síðum, stél svart með gráum jöðrum, áberandi hvítur blettur milli stéls og síðu.Axlafjaðrir eru svartar með hvítum bryddingum. Fullorðinn steggur er með hvítan áberandi blett á framvæng sem myndar hvítt band meðfram síðum á aðfelldum væng. Ársgamall steggur er án þessa einkennis. Í felubúningi er hann dekkri en kolla, oft rauðbrúnni og vængbletturinn sjáanlegur. Kollan er grá eða dökkrauðbrún, flikrótt að ofan með jafnlitari síður og bringu. Framhluti vængs er grár. Bæði kyn hafa hvítan kvið og dökkgræna vængspegla. \r\n\r\nRauðhöfðaönd flýgur hratt með örum vængjatökum. Hún virðist fremur framþung og er oft með inndreginn háls á sundi. Sést oft á beit á landi. Hún er félagslynd utan varpstöðva og mynda steggir í felli oft stóra hópa. ",
+                     "name":  "Rauðhöfðaönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Ritan er einkennismáfur fuglabjarga og úthafsins. Er á stærð við stormmáf. Fullorðin rita er blágrá á baki og yfirvængjum, með alsvarta vængbrodda en að öðru leyti hvít á fiður. Á veturna eru hnakki og afturháls gráir, svartar kámur á hlustarþökur. Ungfugl og fuglar á fyrsta vetri eru eins og fullorðnir fuglar í vetrarbúningi til höfuðsins en auk þess með svartan hálfkraga á afturhálsi. Bak er eins og á fullorðnum ritum, ofan á vængjum eru svartir V-laga bekkir. Svört rák er á stéljaðri, stélið lítið eitt sýlt. Á fyrsta sumri hverfur svarta stélbandið og tveggja ára fuglar eru svipaðir fullorðnum. \r\n\r\nRitan er mikill sjófugl sem sést oft á hafi úti fjarri landi en sjaldan inn til landsins. Hún er ákaflega létt og lipur á flugi, hringsólar oft kringum fiskibáta og steypir sér eftir æti eins og kría. Afar félagslynd.",
+                     "name":  "Rita"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Rjúpa eða fjallrjúpa er eini hænsnfuglinn sem lifir villtur á Íslandi. Hún er hnellin og vængirnir stuttir og breiðir. Hún fellir bolfjaðrir þrisvar á ári en flugfjaðrir aðeins einu sinni. Varpbúningur rjúpu er að mestu brúnn, karlfuglinn er grádílóttur en kvenfuglinn guldílótt. Síðsumars klæðast karrarnir grábrúnum haustbúningi. Vetrarbúningur er hvítur, með fiðraða fætur. Bæði kyn eru með rauða kamba ofan augna og í tilhugalífinu eru þeir oft mjög áberandi á körrum. Kviðurinn er hvítur árið um kring, sem og flugfjaðrir, en stélfjaðrirnar svartar. Karrinn er með breiða svarta augnrák frá goggi að auga, en kvenfuglinn er með hvítt andlit, stundum grannan yrjóttan taum milli goggs og augna. \r\n\r\nRjúpan flýgur hratt og lágt með hröðum vængjatökum, lætur sig svífa með sveigða vængi. Á auðvelt með gang, hleypur oft og klifrar í trjám. Karrar eru áberandi á vorin, tylla sér á háa staði og eru þá auðveld bráð fyrir fálka, alhvítir í dökku umhverfi. Ungar verða fleygir á 10 dögum, löngu áður en þeir ná fullri stærð. Rjúpan er að jafnaði félagslynd.",
+                     "name":  "Rjúpa"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Sanderla er lítill, kvikur og ljósleitur vaðfugl. Í sumarfiðri er sanderlan rauðbrún á höfði, hálsi og bringu, á baki eru fjaðrirnar ljós- og dökkjaðraðar. Vængþökur eru gráar, bringa og kviður hvít. Vetrarbúningurinn er mjög ljós, fuglinn er þá hvítur á höfði, hálsi og að neðan, grár á kolli og að ofan. Hvít vængbelti eru áberandi og dökkur framjaðar vængja áberandi á flugi. Gumpur og stél eru grá með hvítum jöðrum. \r\n\r\nHún er mjög kvik og á sífelldu iði. Hún er félagslynd og sést hér oftast í litlum hópum. Gefur frá sér stutt og hvellt hljóð. ",
+                     "name":  "Sanderla"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Sandlóa er með minnstu vaðfuglum hér, álíka stór og sendlingur og lóuþræll, og er hálsstutt og fremur kubbslega vaxin. Hún er grábrún að ofan en hvít að neðan, á sumrin með hvítan kraga um hálsinn og svart belti þar fyrir neðan, einnig svarta grímu um augu en er hvít á enni. Hún hefur hvít vængbelti sem sjást vel á flugi. Stél og gumpur eru dökk með hvítum jöðrum. Ungfugl og fullorðin sandlóa í vetrarbúningi eru litdaufari, ungfuglar með ljósum fjaðrajöðrum að ofan („hreistraðir“), bæði með grábrúna grímu og bringubelti. \r\n\r\nÞessi litli fugl er fjörlegur og kvikur. Hann er vænglangur og flýgur yfirleitt hratt og lágt og með reglulegu vængjablaki. Fremur félagslyndur utan varptíma. ",
+                     "name":  "Sandlóa"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Sendlingur er lágfættur og kubbslegur, með stuttan háls og fremur stuttan gogg. Hann er dekkstur litlu vaðfuglanna og líka einn af þeim minnstu, litlu stærri en sandlóa og lóuþræll. Á sumrin er hann grá- og brúnflikróttur að ofan, á höfði og bringu, en hvítur á kviði. Á flugi sjást mjó, ljós vængbelti og svört miðrák í hvítum gumpi. Á vetrum er hann allur grárri. Litur ungfugla á haustin er mitt á milli litar sumar- og vetrarfiðurs fullorðinna. Kynin eru eins. \r\n\r\nSendlingur flýgur lágt og beint, syndir auðveldlega. Er félagslyndur utan varpstöðvanna og oft í stórum hópum. Sendlingurinn er spakur og flýgur oft ekki upp fyrr en komið er alveg að honum. ",
+                     "name":  "Sendlingur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Sílamáfur líkist svartbak en er allmiklu minni og nettari. Fullorðinn sílamáfur er dökkgrár á baki og yfirvængjum, með áberandi dekkri vængbrodda, svarta með hvítum doppum. Er að öðru leyti hvítur á fiður. Ungfugl á fyrsta hausti er allur dökkflikróttur, dekkstur stóru máfanna, líkist silfurmáfi en handflugfjaðrir og stórþökur eru dekkri (enginn „spegill“), stélbandið er breiðara og gumpurinn hlutfallslega ljósari en á silfurmáfi. Búningaskipti á öðru og þriðja ári eru svipuð og hjá silfurmáfi og svartbaki, þeir lýsast að neðan og dökkna að ofan og fá fullan búning á fjórða ári. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nVængir sílamáfs eru mjórri og odddregnari en svartbaks og ná lengra aftur fyrir stélið aðfelldir. Hann er léttur á sundi. Sílamáfur er félagslyndur og algengur í þéttbýli, spakari en svartbakur. Hann sækir meira í skordýr en aðrir stórir máfar. ",
+                     "name":  "Sílamáfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Silfurmáfur er stærsti máfurinn með grátt bak og svarta vængbrodda. Hann er nokkru minni en hvítmáfur og eilítið stærri en sílamáfur, sterklega vaxinn með hlutfallslega stutta, breiða vængi. Fullorðinn fugl er hvítur á höfði og að neðan en ljósgrár á baki og yfirvængjum. Vængbroddar eru svartir með hvítum dílum. Ungfuglar á fyrsta ári eru, líkt og sílamáfar á sama aldri, dekkstir ungra máfa. Þeir þekkjast frá sílamáfum á ljósara yfirbragði, ljósu svæði á innanverðum framvæng og fjaðrajaðrar á stórþökum eru ljósari. Svartur bekkur á stéli. Á öðru ári verða bak og yfirvængir grá og kviður og bringa ljós. Á þriðja ári lýsast fuglarnir enn, en þó vottar fyrir svarta stélbandinu og þeir fá fullan skrúða á fjórða ári. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nFluglag og hegðun er svipað og hjá öðrum stórum máfum. Röddin líkist rödd hvítmáfs en er skrækari. ",
+                     "name":  "Silfurmáfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Sjósvala er ívið stærri en stormsvala, en annars lík henni í útliti og lífsháttum. Hún er svipuð henni að lit en þó ögn ljósari. Þær frænkur eru af ættbálki pípunasa",
+                     "name":  "Sjósvala"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Skeiðönd er sérkennileg önd, með sinn mikla gogg, hún er sjaldgæfasta öndin sem verpur reglulega hér á landi. Hún er minni en stokkönd, hálsstutt og fremur kubbsleg. Á steggnum skiptast á dökkir litir og hvítur, hann er með grængljáandi höfuð og háls, hvítur á bringu og teygir hvíti liturinn sig um axlafjaðrir aftur á undirgump. Hann hefur svart bak, gump og svart, ljósjaðrað stél, hvítar og svartar axlafjaðrir og rauðbrúnar síður og kvið. Í felubúningi er hann svipaður kollu, en dekkri að ofan með ljósari reiti á framvængjum. Bæði kyn eru með dökkgrænan spegil og ljósbláan reit á framvæng (vængþökum ) og hvíta rák þar á milli. Kollan er svipuð öðrum buslandakollum, verður best greind á miklum goggi, ljósgulbrúnum eða bleikleitum fjaðrajöðrum og vængmynstri, sem er daufara en á steggi.\r\n\r\nVegna hins stóra goggs virðist skeiðöndin framþung á flugi. Hún er djúpsynd og veit goggurinn niður á sundi. Hún síar æti úr leðju með framrétt höfuð en hálfkafar einnig. Fuglarnir eru venjulega stakir, í pörum eða litlum hópum. Er fremur stygg. ",
+                     "name":  "Skeiðönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Hinn söngfagri fugl, skógarþröstur, er einkennisfugl íslenskra birkiskóga og jafnframt algengur í görðum í þéttbýli. Hann er meðalstór spörfugl, dökkmóbrúnn að ofan, hvítur eða ljósgulur að neðan. Bringa hans er alsett þéttum, dökkum langrákum, kviðurinn er minna rákóttur. Ljós, breið brúnarák og skeggrák, ásamt rauðbrúnum síðum og undirvængþökum, greina hann frá öðrum þröstum. Ungfugl síðsumars er ljósari með ljósa fjaðrajaðra að ofan. \r\n\r\nUm leið og skógarþrösturinn kemur til landsins á vorin byrjar karlfuglinn að syngja og helga sér svæði. Hann er félagslyndur utan varptíma og fer þá um í flokkum. Hann hoppar oftast jafnfætis á jörðu niðri. ",
+                     "name":  "Skógarþröstur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Skrofa er meðalstór, rennilegur og grannvaxinn sjófugl af ættbálki pípunasa. Skrofa er svört að ofan og hvít að neðan með langa og mjóa vængi. Hvíti liturinn að neðan er bryddur svörtu og vængbroddar og stéljaðrar eru dökkir. Stélið er stutt. Ungfugl er eins og fullorðinn og kynin eins. \r\n\r\nSkrofur eru oftast í hópum. Þær koma aðeins í vörpin að næturlagi en safnast í stóra hópa nærri þeim síðdegis. Skrofan flýgur lágt yfir haffleti og veltir sér á fluginu, svo til að sjá eru hóparnir annaðhvort svartir eða hvítir. Hún er afar flugfim. Á sundi minnir skrofa á svartfugl en er léttsyndari. Tekur æti bæði fljúgandi og á sundi. Eltir sjaldan skip. Þögul, nema á varpstöðvum heyrast ýmiss konar óp, skrækir og vein. ",
+                     "name":  "Skrofa"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Skúföndin er fremur lítil og nett önd og er algengasta kaföndin á láglendi. Hún er mjög dökk, steggurinn er með svart, blágljáandi, hnöttótt höfuð með lafandi hnakkaskúf. Síður eru hvítar, svo og kviður, undirvængir og vængbelti, fjaðurhamur annars svartur eða brúnsvartur. Í felubúningi er hann grár á síðum með stuttan skúf, að öðru leyti eins og í skrautbúningi. Á fyrsta vetri eru síður brúnflikróttar. Kollan er dökkbrún að ofan, með ljósflikróttar síður, hvítan kvið og vængbelti. Flestar hafa hvítan blett við goggrót og ljósan undirgumpur sem dökknar á sumrin. Á þeim vottar fyrir hnakkaskúfi. Ungfuglar eru dekkri en kvenfugl. Skúfönd svipar til duggandar en er grennri, með annað höfuðlag, styttri háls og dekkri búning. \r\n\r\nSkúfönd er félagslynd á öllum árstímum. Hún flýgur hratt með hröðum vængjatökum, er djúpsynd og fimur kafari en þung til flugs og hleypur á vatni í flugtaki eins og aðrar kafendur. ",
+                     "name":  "Skúfönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Skúmur er einkennisfugl hinna miklu sanda Sunnan- og Suðaustanlands. Honum svipar til kjóa en er þó mun stærri og þreknari, minnir á stóran, dökkan, hálsstuttan máf. Skúmurinn er dökkbrúnn með ljósbryddum fjöðrum á höfði, hálsi, bringu og baki. Ljósir blettir framarlega á væng eru einkennandi á þöndum vængjum. Vængirnir eru breiðir og snubbóttir, stélið stutt og breitt, miðfjaðrir lítið eitt lengri. Ungfuglar eru dökkbrúnir og jafnlitir. Kynin eru eins, en kvenfuglinn er heldur stærri. \r\n\r\nSkúmurinn er mjög kröftugur flugfugl og ótrúlega fimur þrátt fyrir þyngslalegan vöxt. Hann er þekktur fyrir að leggja aðra sjófugla í einelti og ræna þá æti sínu. Hann er afar árásargjarn við hreiður sitt. Félagslyndur á varpstöðvum en fer oft einförum utan þeirra. ",
+                     "name":  "Skúmur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Smyrillinn er algengasti íslenski ránfuglinn, líkur fálka en mun minni. Karlfuglinn er blágrár að ofan, með dekkri vængbrodda og dökkan stélsenda, ryðrauður að neðan og á hnakka, svartrákóttur á bringu og kviði, með ljósbrúna kverk og skálmar. Hann er minni en kvenfugl. Kvenfugl og ungfugl á fyrsta vetri eru dökkbrún að ofan, sterkrákótt að neðan en grunnliturinn er hvítur eða mógulur. Stélið er dökkbrúnt með mógulum rákum. Bæði kyn eru með óljósa skeggrák. \r\n\r\nSmyrillinn er lipur og harðfylginn veiðifugl sem flýgur hratt yfir móa og grundir og þreytir oft bráð sína með því að elta hana. Vængjatökin eru hröð og flugið létt, hann svífur sjaldan og hnitar lítið. Ýmist sjást fuglarnir stakir eða í pörum. ",
+                     "name":  "Smyrill"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Snjótittlingurinn er einkennisspörfugl á auðnum og í fjalllendi. Er fremur lítill spörfugl, á stærð við steindepil. Karlfugl í sumarbúningi, sólskríkjan, er snjóhvítur, nema svartur á baki, axlarfjöðrum og vængbroddum, á veturna líkist hann kvenfugli. Á sumrin er kvenfuglinn ljósbrúnn, ljósari að neðan, með dökkt bak og yfirvængi með ljósum vængbeltum, svipuð en dauflitari á veturna. Er með rauðbrúnar kámur á höfði og bringuhliðum. Nýfleygir ungar eru allir gráleitir og án vængbelta. Annars eru hvítir vængreitir áberandi árið um kring á fljúgandi fuglum. \r\n\r\nFlug snjótittlings er hratt og bylgjótt. Hann tyllir sér á steina, þök og víðar, þó sjaldan í tré. Er afar félagslyndur á veturna en á sumrin eru pör eða fjölskyldur saman.",
+                     "name":  "Snjótittlingur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Spói er stór vaðfugl, háfættur og rennilegur. Hann er grábrúnn með ljósum fjaðrajöðrum að ofan, á bringu og niður á kvið en annars ljós á kviði og neðan á vængjum, með dökkbrúnan koll og augnrák en ljósa brúnrák og kverk. Hvítur gumpur og neðri hluti baks eru áberandi á flugi. Ungfugl er svipaður en goggur styttri og beinni. Kynin eru eins, en kvenfuglinn ívið stærri. \r\n\r\n\u2028 Á flugi þekkjast spóar á hröðum vængjatökum. Þeir fljúga oft um í hópum síðla sumars, áður en þeir yfirgefa landið. Spóinn er annars fremur ófélagslyndur. Hann tyllir sér oft á háan stað, t.d. fuglaþúfu, og vellir. Söngur spóans, vellið, er eitt af einkennishljóðum íslenska sumarsins. ",
+                     "name":  "Spói"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Stari er þéttvaxinn, dökkur spörfugl, á stærð við skógarþröst og býr í nábýli við manninn. Hann hefur langan, oddhvassan gogg og fremur flatt enni, stutta, þríhyrnda, oddhvassa vængi og stutt og breitt stél. Í sumarfiðri er hann svartur með bláan, grænan og fjólubláan gljáa. Er lítillega doppóttur, aðallega að ofan, sterkari gljái er á karlfugli. Á veturna er hann alsettur fínlegum doppum, ljósbrúnum um bak en hvítum um kvið. Doppurnar eru ljósir fjaðraendar sem eyðast á útmánuðum. Ungfugl er grábrúnn með ljósa kverk og rákir á bringu og kviði.\r\n\r\nStarinn flýgur beint, blakar vængjunum hratt eða lætur sig svífa og er auðþekktur á fluglagi og lögun. Hann syngur á setstað með lafandi eða skjálfandi vængi og úfnar hálsfjaðrir, einnig á veturna. Hann situr hnarreistur og hleypur eða gengur á jörðu niðri en valhoppar ekki eins og þrestir. Er ávallt félagslyndur og oft í stórum hópum við náttstaði. ",
+                     "name":  "Stari"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Steindepill, þessi kviki spörfugl er algengur í grýttu og lítt grónu landi, er ívið stærri og þreknari en þúfutittlingur. Karlfugl í sumarbúningi er blágrár á kolli, afturhálsi og baki, vængir svartir. Svört gríma er um augu og brúnarák hvít. Hann er ljósbrúnn á framhálsi, gulari á bringu og kviði. Hann líkist kvenfugli síðsumars. Kvenfuglinn er dauflitari en karlinn, mógrá á baki og að mestu án litamynsturs á höfði. Ungfugl og kvenfugl að vetri eru ljósari að ofan. Steindepill er ávallt með einkennandi stélmynstur, gumpur og stél eru hvít en svartur stélsendi og stutt, svört stélrák mynda öfugt „T“ aftast á stélinu. \r\n\r\nSteindepillinn er kvikur og eirðarlaus, flýgur lágt og tyllir sér oft með rykkjum og hneigingum og sveiflar vængjum og stéli. Er venjulega einfari eða fáeinir saman. ",
+                     "name":  "Steindepill"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Stelkur er meðalstór, hávær vaðfugl. Á sumrin er hann grábrúnflikróttur að ofan og ljósari að neðan, minnst flikróttur á kviði. Hvítur gumpur og vængbelti eru áberandi á flugi, stélið er þverrákótt. Hann er grárri að ofan og jafnlitari á veturna. Ungfugl er brúnleitur að ofan, með gula fætur. Kynin eru eins. \r\n\r\nÁ varpstöðunum er stelkurinn áberandi og tyllir sér gjarnan á staura með stél- og höfuðrykkjum og hefur hátt ef honum finnst utanaðkomandi nálgast hreiður eða unga um of. ",
+                     "name":  "Stelkur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Stokkönd er algeng, stór buslönd sem flestir kannast við. Steggurinn, grænhöfðinn, er með glansandi dökkgrænt höfuð og háls, neðst á hálsi er hvítur hálshringur og neðan hans tekur við rauðbrún bringan. Búkur og vængir eru gráleit, dekkri og brúnleitari að ofan en neðan. Undirstél og undirgumpur eru svört, stélið hvítt og gumpurinn svartur með tveimur krókfjöðrum fyrir miðju. Í felubúningi er hann dekkri en kollan, sérstaklega á höfði, og goggur gulleitari. Ungfuglar taka á sig lit fullorðinna fugla strax á fyrsta hausti. Kollan er brúnflikrótt, með ljósara höfuð og bringu. Höfuð og háls eru fínlega rákótt, með dekkri koll og augnrák. Bæði kyn hafa dökkbláa vængspegla með hvítum og svörtum bryddingum. \r\n\r\nStokkönd er stærst og þéttvöxnust buslandanna og oftast auðgreind. Hún flýgur hratt með grunnum vængjatökum og flýgur snöggt upp af vatni með bröttu uppflugi. Á auðvelt með gang og gengur í láréttri stöðu. Hún leitar sér ætis með því að hálfkafa með bakhlutann upp í loft, aðeins með haus og háls undir yfirborði, eða hún tínir æti úr vatnsborði. Karlfuglinn yfirgefur kvenfuglinn meðan hann liggur á og safnast steggirnir í hópa til að fella flugfjaðrir. Pörun stendur síðan yfir allan veturinn fram á vor. ",
+                     "name":  "Stokkönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Stormmáfur er ekki ólíkur silfurmáfi en mun minni, á stærð við ritu. Hann er ljósgrár að ofan, vængbroddar svartir með hvítum doppum, annars hvítur á fiður. Höfuð er brúnflikrótt á veturna, líkt og hjá stórum máfum. Ungfugl er grábrúnflikróttur með svartan stéljaðar og brúnt bak sem verður blágrátt strax á fyrsta hausti. Fuglar á fyrsta vetri eru hvítari á höfði og að neðan, með grátt bak og axlafjaðrir, yfirvængir eru brúndröfnóttir með dökkum flugfjöðrum. Þeir lýsast síðan og á öðrum vetri eru þeir svipaðir fullorðnum fuglum, hafa þá misst svarta stélbandið en handflugfjaðrir og vængþökur þeirra eru dekkri. \r\n\r\nStormmáfur er stærri en hettumáfur en minni og léttari á flugi en silfurmáfur, með hnöttóttara höfuð. Gefur frá sér hávært og skerandi garg, hástemmdara og veikara en silfurmáfs, minnir á mjálm. ",
+                     "name":  "Stormmáfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Stormsvala er afar lítill dökkur sjófugl. Sæsvölur (stormsvala og sjósvala) eru alls óskyldar svölum, þær eru pípunasar eins og fýll, skrofa og albatrosar. Varla er hægt að villast á þeim og öðrum sjófuglum en þær líkjast hvor annarri. Stormsvala er minnsti sjófugl Evrópu, lítið eitt minni en sjósvala. Hún er brúnsvört, á stærð við snjótittling, en vænglengri. Stélið er þverstýft, gumpur er snjóhvítur, vængir dökkir að ofan en ljós rák á undirvæng. Ennið er mjög bratt og er eins og fuglinn sé með kýli framan á höfðinu. Fullorðinn og ungfugl eru eins. \r\n\r\nÁ færi eru sæsvölurnar oftast best greindar sundur af fluglaginu. Sjósvala flögrar líkt og fiðrildi og breytir sífellt um hraða og stefnu. Flug stormsvölunnar er beinna og jafnara. Báðar eru einstaklega fimar og léttar á flugi. Stormsvala eltir oft skip úti á rúmsjó. Hrekur stundum inn í land í sunnanstórviðrum á haustin. Stormsvala er þögul utan varpanna, á varpstöðvum gefur hún frá sér malandi kurr í holu. ",
+                     "name":  "Stormsvala"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Straumöndin á heimkynni sín á straumhörðum lindám og við brimasamar strendur. Hún er smávaxin, hálsstutt, dökk kafönd með hátt enni og fleyglaga stél. Steggurinn er afar skrautlegur. Grunnliturinn er dökkblár og er hann alsettur hvítum, svartjöðruðum rákum. Síður og kollhliðar eru rauðbrúnar, vængir dökkir með lítt áberandi, stuttum, hvítum vængreitum, axlafjaðrir með hvítum langrákum. Steggur í felubúningii og ungfugl eru móskulegri en þó vottar fyrir litamynstri í þeim. Kollan er öll svartbrún, með hvíta bletti á hlustarþökur og milli augna og goggs, ljós á kviði. \r\n\r\nStraumönd flýgur hratt með hröðum vængjaslögum og veltum lágt yfir vatnsfleti. Hún flýgur sjaldan yfir land en fylgir ám og þræðir þá hverja bugðu árinnar og fer jafnvel undir brýr. Straumöndin er mjög fimur sundfugl og getur synt bæði í hörðum straumi og brimi og kafað eftir æti í hvítfyssandi iðuna. Hún sperrir oft stélið á sundi og rykkir til höfðinu. Hún er spök og félagslynd, er utan varptíma oftast í litlum þéttum hópum. Kollan sér um útungun og uppeldi unga meðan steggurinn fer til sjávar til að fella flugfjaðrir. ",
+                     "name":  "Straumönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Stuttnefja er fremur stór svartfugl sem svipar mjög til langvíu. Á sumrin er hún svört að ofan en hvít að neðan, síður hvítar án ráka. Hvítir jaðrar armflugfjaðra mynda ljósa rák á aðfelldum væng. Á veturna teygist hvítur litur bringunnar upp á kverk. Kynin eru eins. \r\n\r\nFluglag og hegðun eru í grundvallaratriðum eins og hjá langvíu. Stuttnefja er best greind frá langvíu á hvítum síðum, dekkri lit að ofan, styttri og þykkari goggi með hvítri goggrönd, brattara enni og kantaðri kolli og á veturna á hvítum vöngum. Höfuðlag er annað en á álku, auk þess er stuttnefja hálslengri og stélstyttri. Hún flýgur með kýttan háls og er fimur kafari. Er afar félagslynd. ",
+                     "name":  "Stuttnefja"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Súlan er stór, ljós og rennilegur sjófugl. Fullorðin súla er nær alhvít, með gulleitan haus og svarta vængenda. Vængir eru langir, oddmjóir og stélið fleyglaga. Ungfugl er margbreytilegur að lit en þó alltaf auðþekktur á stærð, lögun og hegðun frá öðrum sjófuglum. Nýfleygir ungar eru aldökkir með ljósum dílum, en lýsast smám saman þangað til þeir skrýðast fullorðinsbúningi fjögurra ára gamlir. Kynin eru eins. \r\n\r\nSúlan er oft nefnd drottning Atlantshafsins vegna þess hve tíguleg hún er. Er venjulega félagslynd og flýgur oft í litlum hópum lágt yfir haffleti. Flugið er kraftmikið með djúpum vængjatökum, brotið upp af svifflugi með aftursveigðum vængjum. Er fremur létt á sundi. ",
+                     "name":  "Súla"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Svartbakur eða veiðibjalla er stærstur máfa og líkist sílamáfi í útliti. Fullorðinn fugl er svartur á baki og yfirvængjum en annars hvítur. Vængbroddar eru svartir með hvítum doppum, samlitir yfirvængnum. Á veturna er hann með ljósbrúna díla á höfði. Ungfugl er ljósgráleitur um höfuð, bringu og kvið en annars dökkflikróttur, með dökka vængbrodda og breitt dökkt stélband. Búningaskipti ungfugla eru svipuð og hjá silfurmáfi og sílamáfi, á öðrum og þriðja vetri lýsast ljósu hlutarnir og bak og yfirvængir dökkna. Fullorðnir fuglar verða best greindir frá sílamáfi á stærð, dekkra baki, samlitum vængbroddum og bleikum fótum. Vængir eru hlutfallslega styttri og breiðari, fætur styttri og goggur sterklegri en á sílamáfi. Ungfuglar eru mun ljósari á höfði og að neðan, þeir eru mun stærri en ungir silfurmáfar og sílamáfar sem þeir líkjast annars mest. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nÞessi stóri fugl er ávallt tignarlegur að sjá. Hann flýgur með hægum, kraftmiklum vængjatökum. Er félagslyndur og oft með öðrum máfum. Gefur frá sér djúpt og snöggt hlakk, er djúpraddaðastur máfa. ",
+                     "name":  "Svartbakur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Svartþröstur er svipaður gráþresti að stærð, og að lit ekki ósvipaður stara. Þekkist best frá stara á lengra stéli, jöfnum, svörtum lit án díla (karlfugl) og lengra stéli, auk þess á hátterninu, sem svipar til hegðunar annarra þrasta. Fullorðinn karlfugl er alsvartur, goggur og augnhringir skærgulir. Ungur karlfugl (á fyrsta vetri) er með dökkan gogg sem lýsist þegar líður á veturinn. Kerlan er dökkmóbrún að ofan, aðeins ljósrákóttari að neðan og með gráa kverk. \r\n\r\nEr venjulega felugjarn, nema syngjandi karlfugl á vorin, sem hreykir sér í trjátoppum. Svartþrestir sjást stakir eða í smáhópum. ",
+                     "name":  "Svartþröstur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Teista er eini íslenski svartfuglinn sem er svartur á kviði. Á sumrin er teistan alsvört, nema með hvítan blett á vængþökum og ljósa, svartbrydda undirvængi. Á veturna er hún ljósari en aðrir svartfuglar, svart- eða grárákótt að ofan, ljósleit að neðan, með svart stél og vængreitirnir minna áberandi. Ungfugl er dekkri, með rákótta vængreiti og dökkan koll. Kynin eru eins. \r\n\r\nVængir teistunnar eru fremur stuttir og breiðir, hún flýgur oftast lágt yfir haffleti með hröðum vængjatökum og eru vængreitir þá áberandi. Hegðun svipar til langvíu en teista er hreyfanlegri á landi. Teistur sjást venjulega stakar eða í litlum hópum. ",
+                     "name":  "Teista"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Tildra er fremur lítill fjörufugl, skrautlegur og kvikur. Í sumarfiðri er tildran rauðbrún að ofan, með svartar rákir á höfði og bringu og hvít að neðan. Höfuðið er hvítt og kollurinn rákóttur. Á veturna er hún öll grárri og litdaufari og það sama gildir um ungfugla, sem virðast hreistraðir á baki. Hvít bak- og vængbelti eru áberandi á flugi. Kynin eru svipuð, en karlfuglinn skærlitari á sumrin. \r\n\r\nTildran dregur nafn sitt á mörgum tungumálum af því háttalagi að velta við steinum og þangi í fjörunni í leit að æti. Hún er félagslynd, en er sjaldan í stærri hópum en frá nokkrum tugum fugla upp í fáein hundruð. Gefur frá sér hvellt og klingjandi skvaldur. ",
+                     "name":  "Tildra"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Tjaldurinn er auðgreindur á stærð og lit en hann er í hópi stærstu vaðfugla sem verpa á Íslandi. Hann er svartur um bak, höfuð og háls niður á bringu en hvítur að neðan. Á svörtum vængjunum eru hvít belti mjög áberandi. Stélið er hvítt með svörtum bekk og hvítur fleygur frá því upp á bak. Á ungfugli er hvítur blettur á kverk, hann eru móskulegri en fullorðinn og goggur dökkur fremst. \r\n\r\nTjaldur er hávaðasamur og félagslyndur fugl. Hann er kröftugur flugfugl en vængjatökin eru ekki djúp. Hann flýgur venjulega fremur lágt. Er einn fárra vaðfugla sem matar unga sína. ",
+                     "name":  "Tjaldur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Toppönd er algengasta fiskiöndin hér, grannvaxin, hálslöng og rennileg, vaxtarlagið minnir á skarfa og brúsa. Hún er með langan, mjóan gogg og áberandi, stríðan topp í hnakka. Steggurinn er með grængljáandi höfuð, grár á búkinn, hvítur á hálsi og brúndröfnóttur á bringu. Hann hefur svart belti með hvítum doppum á bringuhliðum. Í felubúningi er steggur líkur kollu, en dekkri að ofan, hann byrjar oft að skipta um búning þegar í maí. Kollan er að mestu grábrún, höfuðið ljósrauðbrúnt. Bæði kyn eru með gráan yfirvæng með hvítum speglum. \r\n\r\nFlýgur venjulega lágt og hratt með sterklegum vængjatökum. Toppöndin er félagslynd og er oft í litlum hópum. Tilhugalífið er oft afar fjörlegt og mikil læti í karlfuglinum á útmánuðum og vorin. Afbragðs kafari og góð til gangs og sést stundum veiða í hópum og hrekja bráðina á undan sér inn á grynningar. ",
+                     "name":  "Toppönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Toppskarfur er nokkru minni og grennri en dílaskarfur. Hálsinn er styttri og grennri og höfuðið minna, en annars getur verið erfitt að greina þessa fugla sundur eftir stærð og vexti nema sjá þá saman. Höfuð toppskarfs er hnöttóttara, enni brattara og goggur áberandi grennri en á dílaskarfi. Í varpbúningi er toppskarfur alsvartur með grænleitri slikju. Virðist hreistraður að ofan vegna dökkra fjaðrajaðra. Uppsveigður fjaðratoppur á höfði er einkenni fullorðinna fugla frá því í janúar fram á vor. Ungfugl er dökkbrúnn, með ljósan framháls, en ekki ljósleitur á bringu og kviði eins og ungir dílaskarfar. Kynin eru eins. \r\n\r\nToppskarfur er djúpsyndur og ber höfuðið hátt á sundi eins og dílaskarfur. Eftir köfun þarf toppskarfur að þurrka vængina og situr þá oft og blakar þeim, ,,messar\" eins og dílaskarfur, en breiðir ekki jafn mikið úr vængjunum. Hann er fremur klaufalegur þegar hann hefur sig á loft, flýgur með hraðari vængjatökum en dílaskarfur og teygir hálsinn og gogginn ekki upp eins og hann, flýgur fremur lágt. Er venjulega félagslyndur. ",
+                     "name":  "Toppskarfur"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Urtönd er minnsta öndin sem verpur hér og raunar minnsta önd Evrópu. Hún er afar snör í snúningum og stygg. Í fjarska virðist steggurinn vera dökkgrár með dökkt höfuð. Hann er dökkrauðbrúnn á höfði og hálsi, með græna, ljósbrydda geira frá augum og aftur á hnakka. Bringan er gulleit með dökkum doppum, búkur að öðru leyti grár að undanskildum svörtum gumpi og undirgumpi, með rjómagulum flekkjum á hliðum. Svartar og hvítar axlafjaðrirnar mynda áberandi rákir á hliðum þegar vængir eru aðfelldir. Í felubúningi er steggur eins og kolla, með dökkan koll og augnrák. Bæði kyn eru með hvítan kvið og dökkgræna vængspegla með áberandi hvítum framjaðri. \r\n\r\nÞessi litli, kviki og hraðfleygi fugl er hálfgerður náttfugl og mest á ferli í ljósaskiptunum og á nóttunni. Oft sjást urtendur fljúga lágt í þéttum, litlum hópi og svipar þá til vaðfugla. Urtöndin hefur sig bratt til flugs, er lítil og þéttvaxin með hnöttótt höfuð, stuttan háls og mjóa vængi. Hún er félagslynd utan varptíma en afar stygg og felugjörn. ",
+                     "name":  "Urtönd"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Æðarfugl er stór kafönd sem heldur sig nær eingöngu á og við sjó og er algengasta önd landsins. Æður er breiðvaxin með stórt aflangt höfuð og stutt stél. Fullorðinn bliki er auðþekktur, hvítur að ofan og svartur að neðan, með svarta kollhettu, ljósgræna flekki á hnakka og roðlitaða bringu. Vængir eru svartir með hvítum framfjöðrum og löngum hvítum axlafjöðrum. Hvítur blettur er á hliðum undirgumps. Bliki á fyrsta vetri er dökkbrúnn með ljósari bringu og axlafjaðrir, hann kallast veturliði. Hann lýsist síðan smátt og smátt á höfði og að ofan, er á öðrum vetri eins og flekkóttur fullorðinn bliki. Í felubúningi er bliki svipaður og ungfugl en allur dekkri, líka á bringu. Fullorðin kolla er dökkbrún, þverrákótt að neðan en dökkflikrótt að ofan, fínrákótt á höfði og hálsi og er þetta eina öndin með þess konar litamynstur. Vængspeglar eru ógreinilegir. Ung kolla er mun dekkri og jafnlitari. \r\n\r\nÆðarfuglinn er fremur þungur á sér á flugi og flýgur beint, hratt og lágt yfir ölduföldunum. Er þungur til flugs en afbragðs kafari. Gengur reistur og vaggandi. Er ávallt félagslyndur og oftast spakur. Hljóð blikans á vorin, „úið“, er eitt af einkennishljóðum vorsins á Íslandi. ",
+                     "name":  "Æðarfugl"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Þórshani er dálítið stærri en óðinshani. Sumarbúningur hans er rauðbrúnn að neðan en með áberandi ljósum og dökkum röndum að ofan. Kvenfuglinn er skrautlegri, hann er með svartan koll, goggrót og kverk og hvítan vanga, karlfugl er litdaufari, með rákóttan koll og oft með ljósa bletti á bringu og kviði. Vængbelti eru hvít. Á veturna er þórshani ljósblágrár að ofan en ljós að neðan, með dökka augnrák. Ungfugl er svipaður en dekkri á kolli, hnakka, baki og síðum. \r\n\r\nÞórshani er líkur óðinshana í háttum og býr við konuríki eins og hann. Röddin er lík rödd óðinshana, en hvellari. ",
+                     "name":  "Þórshani"
+                 }
+    },
+    {
+        "Data":  {
+                     "text":  "Þúfutittlingur er algengasti spörfugl landsins, stundum nefndur grátittlingur. Hann er einn af okkar bestu söngfuglum. Er minni en snjótittlingur, hálsstuttur, með breiða, stutta vængi og fremur kubbslegur. Einkennasnauður fugl, grágrænn, grábrúnn eða gulbrúnn að ofan. Hann er svartrákóttur að ofan, á bringu og síðum, ljósari á kverk og að neðan. Er með ljósa brúnarák og skeggrák og dauf vængbelti, hvítir stéljaðrar eru greinilegir á flugi. Á haustin eru ungfugl og fullorðinn fugl rákóttari að ofan og gulari á síðum. \r\n\r\nFlug þúfutittlings er reikult og flöktandi. Hann flýgur stundum beint upp í loftið, lætur sig falla niður aftur á svifflugi og syngur um leið. Hann flögrar mikið um og tyllir sér á þúfur eða í tré þess á milli, er félagslyndur utan varptíma. ",
+                     "name":  "Þúfutittlingur"
+                 }
+    }
 ]
