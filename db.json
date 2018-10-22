@@ -1,22 +1,11 @@
-[
-  {
-    "text": "Álftin er stærsti varpfugl landsins. Hún er eini innlendi svanurinn og auðþekkjanleg frá öðrum íslenskum fuglum á stærð, lit og löngum hálsi. Fullorðin álft er alhvít en tekur oft á sig ryðrauðan lit úr mýrarauða á höfuð og háls og nær sá litur stundum niður á bringu og kvið. Ungfugl og fugl á fyrsta vetri eru gráleitir en lýsast þegar líður á vetur og eru að mestu orðnir hvítir að vori. Kynin eru eins í útliti, en karlfuglinn ívið stærri. \r\n\r\nFlugið er kröftugt með sterklegum, hægum vængjatökum. Álftin teygir hálsinn beint fram á flugi en heldur honum lóðréttum á sundi. Hún hleypur á vatni þegar hún hefur sig til flugs. Félagslynd, venjulega í hópum nema á varptíma en þá verja hjónin óðal. Álftir fella flugfjaðrir síðsumars, eru þá ófleygar um tíma og er þá sagt að þær séu „í sárum“. ",
-    "name": "Álft"
-  },
-  {
-    "text": "Álkan er miðlungsstór svartfugl. Hún líkist langvíu og stuttnefju en er hálsstyttri og með hærri gogg. Í \t\tsumarbúningi er álka svört á höfði, hálsi og baki en hvít á bringu og kviði. Á veturna eru framháls, kverk og hlustarþökur hvít. Ungfuglar eru með smágerðari gogg. Kynin eru eins. \r\n\r\nÁlka flýgur hratt og beint með teygðan háls, lágt yfir haffleti. Er létt á sundi og sperrir þá oft stél og jafnvel gogg. Góður kafari eins og aðrir svartfuglar og notar vængina jafnt sem fæturna við köfun. Álka á erfitt um gang, situr á ristinni og heldur jafnvægi með stélinu. Er félagslynd. ",
-    "name": "Álft"
-  },
-  {
-    "text": "Auðnutittlingur er lítil, rákótt, grábrún finka með stutt stél. Rauður blettur á enni og svartur á kverk eru einkennandi. Hann hefur dökkar rákir á síðum, dauf vængbelti og grunnsýlt stél. Síðla vetrar og á vorin verður karlfuglinn bleikur eða rauðleitur á bringu og gumpi. Ungfuglar eru í fyrstu brúnflikróttir, án rauða blettsins á enni, en fá fullan búning í ágúst. \r\n\r\nAuðnutittlingur flýgur í léttum bylgjum. Hann er kvikur og fimur þegar hann leitar sér ætis í trjám og öðrum gróðri. Er oftast í litlum hópum utan varptíma en þeir geta þó orðið allstórir. ",
-    "name": "Álft"
-  },
-  {
-    "text": "Bjargdúfa er gráblá, með gljáandi grænar og purpuralitar hálshliðar. Hún er með hvítan yfirgump, dökka rák á jaðri stéls og tvær svartar vængrákir. Ungfugl er brúnni, án gljáa á hálshliðum. Dökkar bjargdúfur eru líka til. Húsdúfan er afkomandi bjargdúfunnar. Hún er til í mörgum litum, t.d. hvít, alsvört og brún, og til eru ýmis ræktuð afbrigði. Dökkar bjargdúfur eru líka til. Dúfur svífa oft með vængina uppsveigða. Gefa frá sér malandi kurr.",
-    "name": "Álft"
-  },
-  {
-    "text": "Bjartmáfur er vetrargestur sem líkist mjög hvítmáfi en er minni, fíngerðari, með hnöttóttara höfuð og brattara enni, frábrugðið flötu höfði hvítmáfs. Búningar og búningaskipti fullorðins bjartmáfs og ungfugls eru svipuð og hjá hvítmáfi. Kynin eru eins, en karlfuglinn er heldur stærri. \r\n\r\nÁ sumrin hefur fuglinn rauðlitan augnhring. Vængir bjartmáfs eru lengri og mjórri en hvítmáfs og ná lengra aftur fyrir stélið, hann virðist léttari og fimari á flugi. Er mun léttari á sundi en hvítmáfur, minnir á fýl, afturhlutinn vísar á ská upp á við en á hvítmáfi virðist hann láréttur. Gefur frá sér svipuð hljóð og hvítmáfur, er skrækari en silfurmáfur. ",
-    "name": "Álft"
-  }
-]
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "asdsadadsadsadadadas"
+        }
+    ],
+    "profile": {
+        "name": "typiasdasdadadacode"
+    }
+}
